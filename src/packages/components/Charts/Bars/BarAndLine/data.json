@@ -1,0 +1,110 @@
+{
+  "dimensions": [
+    "product",
+    {
+      "name": "absolute_value",
+      "displayName": "你"
+    },
+    {
+      "name": "speed_increase",
+      "displayName": "它"
+    }
+
+  ],
+  "source": [{
+      "product": "2023-15",
+      "absolute_value": "",
+      "speed_increase": 1
+
+    },
+    {
+      "product": "2023-14",
+      "absolute_value": "",
+      "speed_increase": 22
+
+    },
+    {
+      "product": "2023-13",
+      "absolute_value": "38.9",
+      "speed_increase": ""
+    },
+    {
+      "product": "2023-12",
+      "absolute_value": "34.1",
+      "speed_increase": 33
+
+    },
+    {
+      "product": "2023-11",
+      "absolute_value": "35.0",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-10",
+      "absolute_value": "31.1",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-9",
+      "absolute_value": "32.9",
+      "speed_increase": 22
+
+    },
+    {
+      "product": "2023-8",
+      "absolute_value": "38.7",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-7",
+      "absolute_value": "25.7",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-6",
+      "absolute_value": "26.4",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-5",
+      "absolute_value": "21",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-4",
+      "absolute_value": "4.9",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-3",
+      "absolute_value": "21.6",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-2",
+      "absolute_value": "55.2",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2023-1",
+      "absolute_value": "42.2",
+      "speed_increase": ""
+
+    },
+    {
+      "product": "2022-52",
+      "absolute_value": "39.1",
+      "speed_increase": ""
+
+    }
+  ]
+}
